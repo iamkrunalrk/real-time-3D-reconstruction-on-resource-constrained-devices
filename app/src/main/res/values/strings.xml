@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SFM</string>
+
+    <string name="menu_item_title1">Home</string>
+    <string name="menu_item_title2">Camera</string>
+    <string name="menu_item_title3">Camera Calibration</string>
+    <string name="menu_item_title4">Gallery</string>
+
+    <string-array name="objs_array">
+        <item>Sequential</item>
+        <item>Points</item>
+        <item>All to All</item>
+    </string-array>
+
+</resources>
