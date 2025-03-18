@@ -1,4 +1,4 @@
-# Structure-from-Motion (SFM) on Android
+# Real-Time 3D Reconstruction on Resource-Constrained Devices
 
 This project implements a **Structure-from-Motion (SFM)** pipeline on Android devices. The goal of the application is to perform 3D scene reconstruction using images captured on a mobile device, leveraging computer vision techniques to process and reconstruct the 3D models in real-time.
 
