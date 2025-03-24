@@ -8,7 +8,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="com.andrecadgarcia.sfm.activity.MainActivity">
+    tools:context="com.krunalrathod.sfm.activity.MainActivity">
 
     <RelativeLayout
         android:id="@+id/rl_camera"

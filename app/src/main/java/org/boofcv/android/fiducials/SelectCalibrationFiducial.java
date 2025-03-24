@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.andrecadgarcia.sfm.R;
+import com.krunalrathod.sfm.R;
 
 /**
  * Opens a dialog which lets the user configure the type of calibration fiducial it will look for.

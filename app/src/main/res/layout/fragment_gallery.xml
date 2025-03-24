@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.andrecadgarcia.sfm.activity.MainActivity">
+    tools:context="com.krunalrathod.sfm.activity.MainActivity">
 
     <android.support.v7.widget.AppCompatImageView
         android:id="@+id/iv_file_extension"
